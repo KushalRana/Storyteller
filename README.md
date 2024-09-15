@@ -1,2 +1,2 @@
 # thetraveller
-portfolio site
+my personal portfolio site for videos
