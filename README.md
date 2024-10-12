@@ -1,2 +1,2 @@
 # Storyteller
-The Magic of Story
+The Magic of Storytelling
